@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hai, Saya **kodoktempur669** 👋
 
-<!--
-**kodoktempur669/kodoktempur669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang **developer** yang bersemangat menjelajahi dunia **teknologi** dan **pemrograman**! Saya percaya bahwa **kode** adalah alat yang ampuh untuk memecahkan masalah dan menciptakan inovasi yang luar biasa. Mari kita buat hal-hal menakjubkan bersama! ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Apa yang Sedang Saya Kerjakan
+
+* 🔭 **Saat ini** saya sedang asyik dengan beberapa **proyek pribadi** (atau sebutkan nama proyek spesifik jika ada!) untuk mengasah skill saya di **Python** dan **JavaScript**.
+* 🌱 Saya selalu haus akan **ilmu baru**! Belakangan ini saya fokus mendalami **Machine Learning** dan **Web Development dengan React**.
+* 👯 Saya sangat **terbuka untuk kolaborasi** dalam proyek-proyek menarik, terutama yang berkaitan dengan **open source** dan **aplikasi edukasi**.
+* 🤔 Sedang mencari masukan atau diskusi seru tentang **optimasi algoritma** dan **arsitektur microservices**.
+* 💬 Punya pertanyaan seputar **tips belajar coding** atau **tools development favorit**? Jangan ragu bertanya!
+* 📫 Kamu bisa menjangkau saya via **email: youremail@example.com** atau terhubung di **LinkedIn: [link_ke_profil_linkedin_mu]**.
+* ⚡ **Fakta Unik:** Saya bisa menyelesaikan **kubus Rubik** dalam waktu kurang dari 1 menit! 🧩
+
+---
+
+## 🛠️ Teknologi & Tools Favorit Saya
+
+Berikut adalah sebagian kecil dari "senjata" yang sering saya gunakan:
+
+| Kategori              | Teknologi/Tools                                       |
+| :-------------------- | :---------------------------------------------------- |
+| **Bahasa Pemrograman** | `Python` &bull; `JavaScript` &bull; `Java` &bull; `C++` |
+| **Frameworks/Libs** | `React` &bull; `Node.js` &bull; `Django` &bull; `Flask` |
+| **Database** | `PostgreSQL` &bull; `MongoDB` &bull; `MySQL`          |
+| **Cloud Platforms** | `AWS` &bull; `Google Cloud Platform`                  |
+| **DevOps/Tools** | `Docker` &bull; `Git` &bull; `VS Code` &bull; `Linux` |
+
+---
+
+## 📊 Statistik GitHub Saya (Opsional)
+
+Ingin melihat lebih banyak tentang aktivitas coding saya?
+
+[![kodoktempur669's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodoktempur669&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
