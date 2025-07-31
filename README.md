@@ -6,12 +6,11 @@ Seorang **developer** yang bersemangat menjelajahi dunia **teknologi** dan **pem
 
 ## 🚀 Apa yang Sedang Saya Kerjakan
 
-* 🔭 **Saat ini** saya sedang asyik dengan beberapa **proyek pribadi** (atau sebutkan nama proyek spesifik jika ada!) untuk mengasah skill saya di **Python** dan **JavaScript**.
+* 🔭 **Saat ini** saya sedang asyik dengan beberapa **proyek pribadi** untuk mengasah skill saya di **Python** dan **JavaScript**.
 * 🌱 Saya selalu haus akan **ilmu baru**! Belakangan ini saya fokus mendalami **Machine Learning** dan **Web Development dengan React**.
 * 👯 Saya sangat **terbuka untuk kolaborasi** dalam proyek-proyek menarik, terutama yang berkaitan dengan **open source** dan **aplikasi edukasi**.
 * 🤔 Sedang mencari masukan atau diskusi seru tentang **optimasi algoritma** dan **arsitektur microservices**.
 * 💬 Punya pertanyaan seputar **tips belajar coding** atau **tools development favorit**? Jangan ragu bertanya!
-* 📫 Kamu bisa menjangkau saya via **email: youremail@example.com** atau terhubung di **LinkedIn: [link_ke_profil_linkedin_mu]**.
 * ⚡ **Fakta Unik:** Saya bisa menyelesaikan **kubus Rubik** dalam waktu kurang dari 1 menit! 🧩
 
 ---
